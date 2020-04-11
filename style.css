@@ -28,7 +28,9 @@ li {
   padding: 30px;
 }
 
-.hero-image, .sub-banner, .wrapper {
+.hero-image,
+.sub-banner,
+.wrapper {
   padding-top: 30px;
 }
 
@@ -71,6 +73,10 @@ li {
   border-radius: 5px;
   background-color: #111;
   color: white;
+}
+
+button:hover {
+  background-color: #444;
 }
 
 footer {
